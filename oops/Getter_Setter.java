@@ -5,6 +5,8 @@ public class Getter_Setter {
         BankAccount p1 = new BankAccount();
     p1.username = "sachinPandit";
     p1.setPassword("12345678");
+    System.out.println(p1.username);
+    System.out.println(p1.getPassword());
     }
 }
 
@@ -16,6 +18,6 @@ class BankAccount{
       return this.password;
     }  
     void setPassword(String pass){
-    this.password = pass;
+      this.password = pass;
     }
 }
