@@ -9,9 +9,9 @@ public class Main {
         // System.out.println(fibonacci);
         // int tribonacci = print_tribonacci.printTribonacci(8);
         // System.out.println(tribonacci);
-        int arr[] = {1,2,3,4,15};
+        int arr[] = {5,5,5,5,5,5,5,5};
         // System.out.println(check_sorting.checkSorting(arr, 0));
-        System.out.println(LastOccurence.lastOccurence(arr, 0, 1));
+        System.out.println(LastOccurence.lastOccurence(arr, 0, 5));
 
 
 
