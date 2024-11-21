@@ -7,8 +7,14 @@ public class Main {
         // System.out.println(sum);
         // int fibonacci = print_fibonacci.fibonacci(10);
         // System.out.println(fibonacci);
-        int tribonacci = print_tribonacci.printTribonacci(8);
-        System.out.println(tribonacci);
+        // int tribonacci = print_tribonacci.printTribonacci(8);
+        // System.out.println(tribonacci);
+        int arr[] = {1,2,3,4,15};
+        // System.out.println(check_sorting.checkSorting(arr, 0));
+        System.out.println(FirstOccurence.firstOccurence(arr, 0, 3));
+
+
+
 
     }
 }
