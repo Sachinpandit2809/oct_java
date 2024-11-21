@@ -11,7 +11,7 @@ public class Main {
         // System.out.println(tribonacci);
         int arr[] = {1,2,3,4,15};
         // System.out.println(check_sorting.checkSorting(arr, 0));
-        System.out.println(FirstOccurence.firstOccurence(arr, 0, 3));
+        System.out.println(LastOccurence.lastOccurence(arr, 0, 1));
 
 
 
