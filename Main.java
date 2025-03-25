@@ -1,4 +1,5 @@
 
+import practice.*;
 import  recursion.*;
 
 public class Main {
@@ -11,8 +12,7 @@ public class Main {
         // System.out.println(tribonacci);
         int arr[] = {5,5,5,5,5,5,5,5};
         // System.out.println(check_sorting.checkSorting(arr, 0));
-        System.out.println(LastOccurence.lastOccurence(arr, 0, 5));
-
+        // System.out.println(LastOccurence.lastOccurence(arr, 0, 5));
 
 
 
